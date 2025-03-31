@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in United States
-* ✉️  You can contact me at [arthur@arthurjuco.net](mailto:arthur@arthurjuco.net)
+* ✉️  You can contact me at https://peter-parker17.github.io/portfolio/
 
 ### Skills
 
